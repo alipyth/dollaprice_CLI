@@ -1,4 +1,5 @@
 @echo off
-python "C:\Users\Yourusername\usd.py"
+python "C:\Users\<YourName>\usd.py"
 pause
+
 
